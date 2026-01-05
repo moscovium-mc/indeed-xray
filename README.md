@@ -6,7 +6,6 @@ A Tampermonkey userscript that reveals hidden company reviews on Indeed by remov
 
 - Reveals blurred and hidden review text
 - Works across multiple Indeed international domains
-- Removes sign-in prompts and paywalls
 - Lightweight CSS-only implementation
 - No data collection or external requests
 - Automatic updates via Tampermonkey
